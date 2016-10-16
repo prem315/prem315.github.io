@@ -1,0 +1,8 @@
+# Site settings
+title: Prem The Science Guy
+description: Science Blog 
+keywords: Science, Blogging, Fun
+author: Prem Patel
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+layout: nill
